@@ -1,5 +1,7 @@
 # Problem-Solving-SQL
 
+![HackerRank](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png)
+
 Este repositório contém as soluções para desafios de SQL que resolvi no HackerRank. Os desafios são organizados em três categorias: SQL (Basic), SQL (Intermediate) e SQL (Advanced).
 
 ## Estrutura do Repositório
