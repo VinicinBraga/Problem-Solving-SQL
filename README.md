@@ -7,19 +7,20 @@ Este repositório contém as soluções para desafios de SQL que resolvi no Hack
 ## Estrutura do Repositório
 
 ```bash
-Challenges/
-├── SQL (Basic)/
-├── SQL (Intermediate)/
-├── SQL (Advanced)/
-```bash
+Challenges
+├── SQL (Basic)
+├── SQL (Intermediate)
+├── SQL (Advanced)
+```
+
 
 Dentro de cada categoria, você encontrará arquivos .sql que contêm as soluções para os desafios correspondentes.
 
 ## Como Navegar
 
-- Para acessar as soluções de desafios SQL básicos, navegue até a pasta [SQL (Basic)](Challenges/SQL%20(Basic)/).
-- Para soluções de desafios SQL intermediários, vá para [SQL (Intermediate)](Challenges/SQL%20(Intermediate)/).
-- E para os desafios mais avançados, explore [SQL (Advanced)](Challenges/SQL%20(Advanced)/).
+- Para acessar as soluções de desafios SQL básicos, navegue até a pasta [SQL (Basic)](./Challenges/SQL%20(Basic)/).
+- Para soluções de desafios SQL intermediários, vá para [SQL (Intermediate)](./Challenges/SQL%20(Intermediate)/).
+- E para os desafios mais avançados, explore [SQL (Advanced)](./Challenges/SQL%20(Advanced)/).
 
 ## Contribuições
 
