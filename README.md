@@ -7,11 +7,12 @@ Este repositório contém as soluções para desafios de SQL que resolvi no Hack
 ## Estrutura do Repositório
 
 ```bash
-Challenges/
-├── SQL (Basic)/
-├── SQL (Intermediate)/
-├── SQL (Advanced)/
-```bash
+Challenges
+├── SQL (Basic)
+├── SQL (Intermediate)
+├── SQL (Advanced)
+```
+
 
 Dentro de cada categoria, você encontrará arquivos .sql que contêm as soluções para os desafios correspondentes.
 
